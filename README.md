@@ -5,10 +5,6 @@ using LoRA fine-tuning of Stable Diffusion InstructPix2Pix on paired training da
 
 CIS 4190/5190 final project, Track C. Spring 2026.
 
-## Authors
-
-Tabitha Appala, Pranay [LASTNAME], Sumanth [LASTNAME]
-
 ## Links
 
 - Dataset (Hugging Face): [paste HF dataset URL after upload]
