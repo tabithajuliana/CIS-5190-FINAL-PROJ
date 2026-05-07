@@ -1,0 +1,12 @@
+data/
+checkpoints/
+outputs/
+Validation_Pairs/
+*.pt
+*.safetensors
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.env
+*.token

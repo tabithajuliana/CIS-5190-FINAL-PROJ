@@ -1,0 +1,16 @@
+torch==2.1.0
+torchvision
+diffusers==0.27.2
+transformers==4.40.0
+accelerate
+peft
+lpips
+torchmetrics
+scikit-image
+pillow
+pillow-heif
+huggingface_hub
+datasets
+matplotlib
+pandas
+numpy
